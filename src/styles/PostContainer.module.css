@@ -1,0 +1,21 @@
+.postContainer {
+  max-width: 1047px;
+  position: relative;
+  left: -25px;
+}
+
+.postContent {
+  max-width: 692px;
+  border-color: rgb(224, 224, 224);
+  fill: rgb(255, 255, 255);
+}
+
+/* .postContent img {
+  vertical-align: middle;
+} */
+
+.postImg {
+  height: 220px;
+  border-radius: 4px 4px 0 0;
+  background-color: #c4c4c4;
+}

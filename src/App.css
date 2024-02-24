@@ -43,7 +43,11 @@ textarea {
   width: auto;
   height: 39px;
   position: relative;
-  left: -250px;
+  left: -275px;
+}
+
+.toggleBarRight button {
+  margin-left: 10px;
 }
 
 .hr {
@@ -51,4 +55,13 @@ textarea {
   border: 1px solid #e0e0e0;
   position: relative;
   left: -40px;
+}
+
+.location-info {
+  color: #000;
+  opacity: 0.5;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
 }

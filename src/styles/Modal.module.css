@@ -1,0 +1,19 @@
+.infoSignup {
+  color: #000;
+  opacity: 0.6;
+  text-align: right;
+  font-family: IBM Plex Sans;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: -0.088px;
+}
+
+.customModalheader {
+  color: #008a45;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 16px;
+}
